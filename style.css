@@ -2,6 +2,8 @@ body{
     font-family: 'Roboto Condensed', sans-serif;
 }
 h1{
-    font-size: 50px;
-    font-family: ;
+    font-size: 40px;
+}
+.name-highlight{
+    color: orange;
 }
